@@ -1,0 +1,13 @@
+Default LightGBM 5-fold OOF AUC   : 0.98341
+Optuna best trial (3-fold) AUC   : 0.98343
+Optuna best params 5-fold AUC     : 0.98344
+Improvement over default          : +0.00004
+
+Best hyperparameters:
+  num_leaves                = 71
+  learning_rate             = 0.022203806541255214
+  feature_fraction          = 0.901859144953399
+  bagging_fraction          = 0.8880001279173543
+  min_child_samples         = 12
+  reg_alpha                 = 0.08729064431317787
+  reg_lambda                = 0.03496935319835041
